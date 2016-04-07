@@ -5,5 +5,5 @@ Type the following in Terminal :
 
 `lex rules.lex`  
 `yacc -d parser.y`  
-`c++ lex.y.c y.tab.c`
+`c++ lex.y.c y.tab.c`  
 `./a.out < test.c`
